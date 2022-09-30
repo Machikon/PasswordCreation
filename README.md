@@ -3,7 +3,7 @@ My application allows users to create password by following prompts. The prompts
 
 ## Technologies used
 - html 
-- JavaScript
+- JavaScript (Using starter-code, I added code (var, function, if, array, prompt/confirm, concat, Math.random, etc.)
 
 ## Features 
 1. When user clicks on the password generation button, seriese of prompts are presented to users to respond. 
@@ -15,4 +15,12 @@ My application allows users to create password by following prompts. The prompts
 2. Random passwords have not been generated yet.
 3. Randomly generated password is not displayed in an alert or written to the page.
 
-URL (GitHub Pages):
+## URL (GitHub Pages):https://machikon.github.io/PasswordCreation/
+
+## Screen-shots
+
+![Module3 Carroll M Screenshot3](https://user-images.githubusercontent.com/106935371/193191507-33dbc64d-0cb9-47d6-ae46-76dde26c2ed8.png)
+![Module3 Carroll M Screenshot4](https://user-images.githubusercontent.com/106935371/193191508-222deadc-9af5-467c-b1a2-74dedead682e.png)
+![Module3 Carroll M Screenshot5](https://user-images.githubusercontent.com/106935371/193191509-77d807b8-80d2-4dd5-9998-94a35dd81767.png)
+![Module3 Carroll M Screenshot1](https://user-images.githubusercontent.com/106935371/193191511-197db2fe-e78a-43c3-a092-553dbc001c20.png)
+![Module3 Carroll M Screenshot2](https://user-images.githubusercontent.com/106935371/193191512-a814e6e1-83a1-44dc-b0b5-184e5cc0713b.png)
